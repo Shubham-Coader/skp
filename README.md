@@ -1,1 +1,1 @@
-# Sbake game by Shubham Prajapati
+# Sbake game by Naveen

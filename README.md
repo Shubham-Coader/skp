@@ -1,1 +1,1 @@
-# Sbake game by Naveen
+Snake game totally based on Javascript. It,s only entertairnment purpose.
